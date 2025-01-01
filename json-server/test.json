@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cat 1"
+    },
+    {
+      "id": 2,
+      "name": "Cat 2"
+    },
+    {
+      "id": 3,
+      "name": "Cat 3"
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Cat 1"
+    },
+    {
+      "id": 2,
+      "name": "Cat 2"
+    },
+    {
+      "id": 3,
+      "name": "Cat 3"
+    }
+  ]
+}
